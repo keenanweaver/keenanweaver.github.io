@@ -1,0 +1,65 @@
+baseURL = "https://keenanweaver.github.io/"
+title = "Keenan's Blog"
+theme = "gokarna"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+pygmentsStyle = "catppuccin-mocha"
+
+[params]
+  accentColor = "#89dceb"
+  footer = "Keenan Weaver"
+  description = "Sky above, ground below, and peace within"
+  avatarURL = "/images/avatar.jpg"
+  AvatarAltText = "avatar"
+  avatarSize = "size-m"
+  ShowBackToTopButton = true
+  showPostsOnHomePage = "recent"
+  togglePreviousAndNextButtons = "true"
+  socialIcons = [
+    {name = "github", url = "https://github.com/keenanweaver"},
+    {name = "linkedin", url = "https://linkedin.com/in/keenanw"},
+    {name = "twitch", url = "https://twitch.tv/EchoSector"},
+    {name = "email", url = "mailto:keenanweaver@proton.me"}
+  ]
+  metaKeywords = ["blog", "gokarna", "hugo"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    identifier = "posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    pre = "<span data-feather='tag'></span>"
+    url = "/tags/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    pre = "<span data-feather='help-circle'></span>"
+    url = "/about/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "rss"
+    pre = "<span data-feather='rss'></span>"
+    url = "/index.xml"
+    weight = 5
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false

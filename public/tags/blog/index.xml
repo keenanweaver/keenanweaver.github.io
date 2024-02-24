@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Keenan&#39;s Blog</title>
+    <link>https://keenanweaver.github.io/tags/blog/</link>
+    <description>Recent content in blog on Keenan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Feb 2024 14:27:48 -0600</lastBuildDate>
+    <atom:link href="https://keenanweaver.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://keenanweaver.github.io/posts/first_post/</link>
+      <pubDate>Fri, 23 Feb 2024 14:27:48 -0600</pubDate>
+      <guid>https://keenanweaver.github.io/posts/first_post/</guid>
+      <description>Hello world! </description>
+    </item>
+  </channel>
+</rss>
