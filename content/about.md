@@ -27,4 +27,4 @@ Here are some fun facts about me:
 * I'm referenced on pg. 39 of the [manual for Wing Commander: Arena](https://download.wcnews.com/files/arena/draft2cRGB.pdf) because of my obsessive Crusader fandom.
 * Aside from games and tech, some other interests of mine are music, fitness, mindfulness, and golfing.
 
-The source of this blog can be found at the [GitHub repository](https://github.com/keenanaweaver).
+The source of this blog can be found at the [GitHub repository](https://github.com/keenanweaver/keenanweaver.github.io).
